@@ -25,4 +25,4 @@ Functionalities:
     All forms with back end validation
     List data content with pagination, search, and filters
 
-Screenshots
+
