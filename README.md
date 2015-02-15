@@ -1,4 +1,4 @@
-CodeIgniter-Sample-Project-By-Dinesh
+CodeIgniter-Sample-Project-By-Dinesh-Also-Ved-Was-With-Me
 
 Sample administrator panel using CodeIgniter 2.1.2 with Mysql and Twitter Bootstrap.
 
